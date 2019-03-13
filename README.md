@@ -1,4 +1,4 @@
-笔记来源于[it大咖网])(http://www.itdks.com)
+笔记来源于[it大咖网](http://www.itdks.com)
 应该掌握的知识
 集合 springx redis 反射 并发 mysql mq es
 -----
