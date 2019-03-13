@@ -1,12 +1,29 @@
-相关链接：
-[研招网][1]
+笔记来源于[it大咖网])(http://www.itdks.com)
+应该掌握的知识
+集合 springx redis 反射 并发 mysql mq es
+-----
+io模型 tcp/ip 存储结构 内存模型 cap cpu调度
+网络拓扑 分布式一致 线程 协程
+-----
+建议看的书
+java核心技术 java编程思想
+设计模式 effective xx 并发编程 深入jvm 性能优化 netty mysql redis 
+大型网站架构 领域驱动设计 xx设计与实现
+----
+有挑战才有意思 结果导向 不要给自己设限
+----
+故障=机会
+大促=机会
+变态需求=机会
+新领域=机会
+爆发增长=机会
+----
+做不普通的事 要做进去出成功
+开源组件 流弊方案
+亮点就是核心竞争力
+培养最需要的技术和能力
+问题就是机会 实践就是学习的最短路径
 
 
- 经验文章：
- [2019考研复习计划时间表][2]
-[考研的复习计划及时间安排][3]
 
 
-  [1]: https://yz.chsi.com.cn/
-  [2]: https://baijiahao.baidu.com/s?id=1602233629316036981&wfr=spider&for=pc
-  [3]: http://www.ruiwen.com/xuexijihua/1448442.html
