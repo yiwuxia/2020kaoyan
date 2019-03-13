@@ -5,7 +5,7 @@
 io模型 tcp/ip 存储结构 内存模型 cap cpu调度
 网络拓扑 分布式一致 线程 协程
 -----
-建议看的书
+建议看的书(看书效率高比较系统)
 java核心技术 java编程思想
 设计模式 effective xx 并发编程 深入jvm 性能优化 netty mysql redis 
 大型网站架构 领域驱动设计 xx设计与实现
